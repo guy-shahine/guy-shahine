@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+I currently work and manage a boutique software development agency [Akadenia](https://akadenia.com). We build mobile apps using React Native in TypeScript. Online stores on top of Shopify and web apps in Node.js.
+
+Checkout our [latest blog posts](https://akadenia.com/blog)
+
+Let us build your app by [Contacting us](https://akadenia.com/contact-us)
 
 <!--
 **guy-shahine/guy-shahine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
