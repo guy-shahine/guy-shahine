@@ -1,6 +1,11 @@
-### Hello
+### Hello, it's nice of you to swing by
 
-I currently work and manage a boutique software development agency [Akadenia](https://akadenia.com). We build mobile apps using React Native in TypeScript. Online stores on top of Shopify and web apps in Node.js.
+My name is Guy Shahine and I currently work at a boutique software development agency [Akadenia](https://akadenia.com). We build mobile apps using React Native in TypeScript. Online stores on top of Shopify and web apps in Node.js . Our cloud expertise is Amazon AWS and Microsoft Azure.
+
+Here are some projects I've worked on
+- Prōjectagram: Consumer product with a companion app, [Website](https://projectagram.com), [iOS](https://apps.apple.com/us/app/prōjectagram/id1499420041), [Android](https://play.google.com/store/apps/details?id=com.chlela.projectagram)
+- Perimeter Platform: First responders real-time evacuation management [Website](https://perimeterplatform.com/), [iOS](https://apps.apple.com/ca/app/perimeter-mobile/id1562227654), [Android](https://play.google.com/store/apps/details?id=com.chlela.perimeter)
+- Savvly: Reinventing retirement, together [Website](https://savvly.com)
 
 Checkout our [latest blog posts](https://akadenia.com/blog)
 
