@@ -12,14 +12,3 @@ Here are some projects I've worked on
 Checkout our [latest blog posts](https://akadenia.com/posts)
 
 Let us build your app by [contacting us](https://akadenia.com/contact)
-
-### Commit history
-
-<div align="center">
-  <a href="https://commit-history.com/guy-shahine">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/guy-shahine?theme=dark" />
-      <img alt="guy-shahine's commit history" src="https://commit-history.com/embed/guy-shahine" />
-    </picture>
-  </a>
-</div>
