@@ -1,28 +1,25 @@
 ### Hello, it's nice of you to swing by
 
-My name is Guy Shahine and I currently run a software development agency [Akadenia](https://akadenia.com). We build Modern web apps, mobile apps, online stores and cloud managed services. Our cloud expertise is Amazon AWS and Microsoft Azure.
+My name is Guy Shahine and I currently run a software development agency, [Akadenia](https://akadenia.com). We build modern web apps, mobile apps, online stores, and cloud managed services. Our cloud expertise is Amazon AWS and Microsoft Azure.
 
 Here are some projects I've worked on
+- Akadenia Backup: Shopify app that backs up and exports store data for safekeeping and migration. [Shopify listing](https://apps.shopify.com/akadenia-backup)
+- Akadenia Uploader: Shopify app for seamless file uploads with cloud storage integration. [Shopify listing](https://apps.shopify.com/akadenia-uploader)
 - FootID Pro: Custom orthotics. [Website](https://footidpro.com)
-- Prōjectagram: Consumer product with a companion app, [Website](https://projectagram.com)
-- Perimeter Platform: First responders real-time evacuation management [Website](https://perimeterplatform.com/), [iOS](https://apps.apple.com/ca/app/perimeter-mobile/id1562227654), [Android](https://play.google.com/store/apps/details?id=com.chlela.perimeter)
-- Savvly: Reinventing retirement [Website](https://savvly.com)
+- Prōjectagram: Consumer product with a companion app. [Website](https://projectagram.com)
+- Savvly: Reinventing retirement. [Website](https://savvly.com)
 
 Checkout our [latest blog posts](https://akadenia.com/posts)
 
-Let us build your app by [Contacting us](https://akadenia.com/contact)
+Let us build your app by [contacting us](https://akadenia.com/contact)
 
-<!--
-**guy-shahine/guy-shahine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Commit history
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://commit-history.com/guy-shahine">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/guy-shahine?theme=dark" />
+      <img alt="guy-shahine's commit history" src="https://commit-history.com/embed/guy-shahine" />
+    </picture>
+  </a>
+</div>
